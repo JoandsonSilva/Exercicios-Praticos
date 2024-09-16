@@ -5,8 +5,8 @@
 }
 
 body{
-    background-color: #000;
-    color: #fff;
+    background-color: #fafafa;
+    color: #000000;
     margin: 50px;
 }
 
@@ -31,6 +31,10 @@ section{
     transition: all 1.5s;
     filter: blur(30px);
     transform: translate3d(-100px,0,0);
+}
+
+.ima{
+    width: 60%;
 }
 
 .visivel{
